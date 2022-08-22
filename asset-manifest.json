@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ApiRickandMorty/static/css/main.655328ac.css",
+    "main.js": "/ApiRickandMorty/static/js/main.77131a25.js",
+    "index.html": "/ApiRickandMorty/index.html",
+    "main.655328ac.css.map": "/ApiRickandMorty/static/css/main.655328ac.css.map",
+    "main.77131a25.js.map": "/ApiRickandMorty/static/js/main.77131a25.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.655328ac.css",
+    "static/js/main.77131a25.js"
+  ]
+}
